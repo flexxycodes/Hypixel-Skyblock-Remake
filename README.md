@@ -1,6 +1,6 @@
 # Hypixel Skyblock Core
 **Contributors:**
-- NorySight, Hamza, Dumbo, Epic portal & Furyloxx.
+- NorySight, Hamza, Dumbo, Epic portal & Zero.
 
 I dont give a shit on however you use it, do whatever you want with it.
 
