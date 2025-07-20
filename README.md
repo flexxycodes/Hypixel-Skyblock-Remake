@@ -1,4 +1,4 @@
-# Hypixel Skyblock Core
+-# Hypixel Skyblock Core
 **Contributors:**
 - NorySight, Hamza, Dumbo, Epic portal & Zero.
 
